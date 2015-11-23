@@ -1,4 +1,4 @@
-# dev-salary-tw
+# dev-salary
 
 這個repo 最主要想幫助在台灣的Developer找到適合你的薪資range.
 
